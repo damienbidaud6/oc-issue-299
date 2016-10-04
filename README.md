@@ -8,7 +8,8 @@ Test repo to chat about that issue.
 ```sh
 npm i
 npm start
-# will start oc registry at port 3030 and http-server for serving test page (index.html) at http://localhost:3000 - to change ports edit package.json
+# will start oc registry at port 3030 and http-server for serving test page (index.html)
+# at http://localhost:3000 - to change ports edit package.json
 open http://localhost:3000
 ```
 
